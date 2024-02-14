@@ -16,9 +16,9 @@
 
 ## Quais Tecnologias Usei Nesse Projeto?
 <ol>
- <li><h3>Python</h3></li>
- <li><h3>Flask</h3></li>
- <li><h3>Tailwind</h3></li>
+ <h3><li>Python 3.11(Pode usar uma versão superior)</li></li>
+ <h3><li>Flask</li></li>
+ <h3><li>Tailwind</li></li>
 </ol>
 
 ## Quais Bibliotecas Python Foram Usadas Nesse Projeto?
@@ -30,4 +30,10 @@
 </ol>
 
 ## Como usar?
-<p>Para usar basta no seu terminal dar um git clone '' e então baixar as bibliotecas usadas no projeto e claro verificar o arquivo scripts.py e substituir a chave api do chat gpt pela a sua chave API e substuir também a chave do pexels pela a sua chave API</p>
+<p>Para usar basta no seu terminal dar um git clone 'https://github.com/AbbysTheWorld/Automacao-Criacao-De-Videos.git' e então baixar as bibliotecas usadas no projeto e claro verificar o arquivo scripts.py e substituir a chave api do chat gpt pela a sua chave API e substuir também a chave do pexels pela a sua chave API</p>
+
+## Em Casos de Erros Tente os Seguintes Procedimentos:
+<ol>
+ <li>Baixar as bibliotecas na mesma versão que a do Projeto</li>
+ <li>Verificar se no seu computador tem ImageMagic Instalado</li>
+</ol>
