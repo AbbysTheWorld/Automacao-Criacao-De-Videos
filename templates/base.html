@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        {% block titulo %}
+        {% endblock %}
+    </title>
+    <script src="https://cdn.tailwindcss.com"></script>  
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  
+    {% block head %}
+    {% endblock %}
+</head>
+<body class="bg-gradient-to-tr to- from-purple-950 from-30% to-purple-400 text-white">
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
