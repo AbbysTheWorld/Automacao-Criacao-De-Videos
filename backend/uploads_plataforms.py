@@ -35,7 +35,7 @@ def upload_to_tiktok():
     pyautogui.hotkey('enter')
     sleep(3)
     pyautogui.click(438,59)
-    pyautogui.write('https://www.tiktok.com/@robtopdagalaxia001')
+    pyautogui.write('https://www.tiktok.com/nomeusuario')
     sleep(2)
     pyautogui.hotkey('enter')
     sleep(5)
