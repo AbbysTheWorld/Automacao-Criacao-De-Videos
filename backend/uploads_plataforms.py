@@ -9,7 +9,7 @@ import pyautogui
 options = webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
 options.add_argument('--enable-chrome-browser-cloud-management')
-options.add_argument("user-data-dir=C:\\Users\joaor\\AppData\Local\\Google\\Chrome Beta\\User Data\\")
+options.add_argument("user-data-dir=C:\\Users\@\\AppData\Local\\Google\\Chrome Beta\\User Data\\")
 options.binary_location = r"C:\\Program Files\\Google\\Chrome Beta\\Application\\chrome.exe"
 #options.add_argument('--headless=new')
 
